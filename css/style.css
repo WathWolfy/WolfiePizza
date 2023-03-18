@@ -1,0 +1,87 @@
+.company-icon {
+    width: 100px;
+}
+
+.header {
+    margin-bottom: 50px;
+}
+
+.form-flex {
+    display: flex;
+    justify-content: start;
+    height: 50px;
+}
+
+.search-input {
+    margin: 50px 0 0 25px;
+}
+
+.m25-10 {
+    margin: 25px 10px
+}
+
+.creators {
+    display: flex;
+    margin-left: auto;
+    margin-right: 0;
+}
+
+.creator {
+    color: rgba(255, 255, 255, 0.674);
+}
+
+.creator:first-child {
+    margin: 25px 0;
+}
+
+.creator:nth-child(2) {
+    margin: 25px 0 25px 15px;
+}
+
+
+.card {
+    margin-bottom: 30px;
+    margin-right: 15px;
+    justify-content: space-between;
+}
+
+.pizzas {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.footer {
+    margin-top: 20px;
+}
+
+.mb-50 {
+    margin-top: 50px;
+}
+h1 {
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+
+h1#all-pizzas {
+    margin-bottom: 30px;
+}
+
+.h1-style {
+    margin-bottom: 30px;
+}
+
+.card-image {
+    height: 180px;
+}
+
+.img-pizza {
+    float: left;
+    width: 431px;
+    height: 296px;
+}
+
+.show-pizza-card {
+    width: 1296px!important;
+}
